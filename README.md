@@ -3,7 +3,8 @@
 
 
 
-<div align="center"> 𝙂𝙊𝘿𝙇𝙔 𝙥𝙖𝙣𝙘𝙖𝙠𝙚 𝙨𝙩𝙪𝙛𝙛: </div>
+| [GODLY pancake stuff:]((https://rentry.co/pancakegod)) |
+| :---: |
 
 
 
