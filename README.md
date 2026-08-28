@@ -3,7 +3,7 @@
 
 
 | [GODLY pancake stuff:]((https://rentry.co/pancakegod)) |
-| :---: | |centered column|
+| :---: || centered column |
 
 [PANCAKE rentry](https://rentry.co/pancakegod) 
 
