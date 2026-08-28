@@ -9,7 +9,8 @@
 
 [PANCAKE sp](https://pancakegod.straw.page)
 
-(other pancake stuff soon)
+| [other pancake stuff soon..]((https://rentry.co/pancakegod)) |
+| :---: |
 
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-79c80e96-7090-4456-ae7f-cc18e6d477f6.png alt="Alt Text" width="500">
