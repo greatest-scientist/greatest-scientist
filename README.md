@@ -30,6 +30,7 @@
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-f38312a0-35d9-4746-bb07-8c8f0bf4346d.png alt="Alt Text" width="500">
 
-![Demo Video](https://tenor.com/bVQyA.gif)
+
+<img src=https://tenor.com/bVQyA.gif width="100" alt="App Demo">
 
 
