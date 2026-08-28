@@ -7,9 +7,7 @@
 
 
 
-<div align="center">❤️</div>
-
-<div align="center"> [PANCAKE rentry](https://rentry.co/pancakegod) </div>
+[PANCAKE rentry](https://rentry.co/pancakegod)
 
 <img src=https://cdn.phototourl.com/member/2026-08-28-1827216d-e58c-4e50-9272-219000e2a7bb.png alt="Alt Text" width="100">
 
