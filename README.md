@@ -1,7 +1,8 @@
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-95e1d673-6dae-469d-b221-9721f40ec50c.png alt="Alt Text" width="500">
 
-<div align="center"> # [GODLY pancake stuff:] </div>
+<p align="center"><kbd> [GODLY pancake stuff:] </kbd></p>
+
 
 
 
