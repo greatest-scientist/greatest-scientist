@@ -5,11 +5,13 @@
 | [GODLY pancake stuff:]((https://rentry.co/pancakegod)) |
 | :---: | 
 
-[PANCAKE](https://rentry.co/pancakegod) 
+[PANCAKE rentry](https://rentry.co/pancakegod) 
 
-[PANCAKE](https://pancakegod.straw.page)
+[PANCAKE sp](https://pancakegod.straw.page)
 
 (other pancake stuff soon)
+
+
 <img src= https://cdn.phototourl.com/member/2026-08-28-79c80e96-7090-4456-ae7f-cc18e6d477f6.png alt="Alt Text" width="500">
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-f38312a0-35d9-4746-bb07-8c8f0bf4346d.png alt="Alt Text" width="500">
