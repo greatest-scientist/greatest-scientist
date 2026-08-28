@@ -7,6 +7,8 @@
 
 [PANCAKE rentry](https://rentry.co/pancakegod) 
 
+<img src=https://cdn.phototourl.com/member/2026-08-28-e1888847-1240-471a-81b8-221963be5b49.png alt="Alt Text" width="100">
+
 [PANCAKE sp](https://pancakegod.straw.page)
 
 | [other pancake stuff soon..]((https://rentry.co/pancakegod)) |
