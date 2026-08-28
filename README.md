@@ -7,7 +7,7 @@
 
 [PANCAKE rentry](https://rentry.co/pancakegod) 
 
-<img src=https://cdn.phototourl.com/member/2026-08-28-e1888847-1240-471a-81b8-221963be5b49.png alt="Alt Text" width="100">
+<img src=https://cdn.phototourl.com/member/2026-08-28-1827216d-e58c-4e50-9272-219000e2a7bb.png alt="Alt Text" width="100">
 
 [PANCAKE sp](https://pancakegod.straw.page)
 
