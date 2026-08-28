@@ -6,7 +6,7 @@
 | :---: | 
 
 [PANCAKE](https://rentry.co/pancakegod) rentry
-
+[PANCAKE](https://pancakegod.straw.page) strawpage
 <img src= https://cdn.phototourl.com/member/2026-08-28-79c80e96-7090-4456-ae7f-cc18e6d477f6.png alt="Alt Text" width="500">
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-f38312a0-35d9-4746-bb07-8c8f0bf4346d.png alt="Alt Text" width="500">
