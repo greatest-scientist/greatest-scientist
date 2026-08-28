@@ -1,4 +1,10 @@
-![](https://komarev.com/ghpvc/?username=greatest-scientist)
+![](https://komarev.com/ghpvc/?username=greatest-scientist)<div style="display: inline-flex; font-family: sans-serif; font-size: 14px; border-radius: 4px; overflow: hidden;">
+  <!-- Change the text here -->
+  <span style="background: #555; color: #fff; padding: 4px 8px;">Your Text Here</span>
+  <!-- Change the counter background here -->
+  <span style="background: #007acc; color: #fff; padding: 4px 8px; font-weight: bold;">1</span>
+</div>
+
 
 
 <img src= https://cdn.phototourl.com/member/2026-08-28-95e1d673-6dae-469d-b221-9721f40ec50c.png alt="Alt Text" width="500">
