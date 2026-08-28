@@ -23,6 +23,8 @@
 | [Mhm.. pls be oomfs with me :)) we'll get to eat pancakes. yummy.]((https://rentry.co/pancakegod)) |
 | :---: |
 
+<img src=https://cdn.phototourl.com/member/2026-08-28-1827216d-e58c-4e50-9272-219000e2a7bb.png alt="Alt Text" width="100">
+
 | [omg i love pancakes]((https://rentry.co/pancakegod)) |
 | :---: |
 
