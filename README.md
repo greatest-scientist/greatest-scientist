@@ -19,7 +19,7 @@ ok
 │             ┊ P a n c a k e. :
 │╭────────────╯
 ││
-││• Is being a pancake yume cool...
+││• Pancake objectrum...
 ││
 ││• I love pancakes yk..
 ││
