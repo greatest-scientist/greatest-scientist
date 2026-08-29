@@ -49,8 +49,8 @@ ok
 | [OH MY GOD LETS EAT PANCAKE S PLSS,,, HOLY SHIT I WANNA GET MARRIED TO A PANCAKE.]((https://rentry.co/pancakegod)) |
 | :---: |
 
-
-<div class="typewriter">
-  <h1>Hello!</h1>
+<div class="typewriter-container">
+  <h1 class="typewriter-text">Hello, World!</h1>
 </div>
+
 
