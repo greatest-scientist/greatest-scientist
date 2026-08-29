@@ -49,8 +49,33 @@ ok
 | [OH MY GOD LETS EAT PANCAKE S PLSS,,, HOLY SHIT I WANNA GET MARRIED TO A PANCAKE.]((https://rentry.co/pancakegod)) |
 | :---: |
 
-<div class="typewriter-container">
-  <h1 class="typewriter-text">Hello, World!</h1>
-</div>
+
+
+.typewriter-text {
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typewriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; 
+  
+  /* Adjust 'steps(13)' to match the exact number of characters in your text */
+  animation: 
+    typing 3.5s steps(13, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
 
 
