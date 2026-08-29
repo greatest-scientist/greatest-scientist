@@ -1,4 +1,4 @@
-<img src=https://cdn.phototourl.com/member/2026-08-29-c4ac3845-a118-4202-9b0c-af37456861e8.png alt="Alt Text" width="500">
+<img src=https://cdn.phototourl.com/member/2026-08-29-c4ac3845-a118-4202-9b0c-af37456861e8.png alt="Alt Text" width="700">
 
 
 
@@ -6,29 +6,28 @@
 
 
 <img align="right" width="200" src=https://cdn.phototourl.com/member/2026-08-29-9c2f0a23-5edc-4aa5-8e81-14550cb08477.png />
-```Hi people.... I love pancakes ngh..```
+```Hi people.... I'm a BUSY student and I use Github for practice coding and for CUTE AND KAWAII PT profiles mainly..```
 
 
 
-ok
 <br clear="right" />
 
 
 
 <pre>
  ╭────┈ ↷
-│             ┊ P a n c a k e. :
+│             ┊ a b o u t  m e. :
 │╭────────────╯
 ││
 ││• Pancake objectum...
 ││
-││• I love pancakes yk..
+││• Has cool interests..
 ││
-││• Im in love with pancakes..
+││• Minor..
 ││
-││• OH MY GOD
-││•
-││•
+││• CVC'2032..
+││
+││• 
 ││•
 ││•
 │╰─────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿✦
@@ -44,10 +43,12 @@ ok
 [PANCAKE rentry](https://rentry.co/pancakegod)
 
 [PANCAKE sp](https://pancakegod.straw.page)
+
+COOLER AND MORE SERIOUS SP & RENTRY IS NOT GONNA EXIST.
 <br clear="left" />
 
 
-| [OH MY GOD LETS EAT PANCAKE S PLSS,,, HOLY SHIT I WANNA GET MARRIED TO A PANCAKE.]((https://rentry.co/pancakegod)) |
+| [Give me pancakes and I'll buy anything for you..]((https://rentry.co/pancakegod)) |
 | :---: |
 
 
