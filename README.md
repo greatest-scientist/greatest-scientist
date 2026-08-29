@@ -36,7 +36,7 @@ ok
 
 
 
-<img src=https://cdn.phototourl.com/member/2026-08-29-d010d70a-f46d-4f7d-a8b7-d51dcb40c939.png alt="Alt Text" width="500">
+<img src=https://cdn.phototourl.com/member/2026-08-29-d010d70a-f46d-4f7d-a8b7-d51dcb40c939.png alt="Alt Text" width="700">
 
 
 <img align="left" width="200" src=https://cdn.phototourl.com/member/2026-08-29-4ec3214c-0645-42ba-a289-a3ed50e3858c.png />
