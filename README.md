@@ -52,5 +52,6 @@ ok
 
 
 
-<div class="rainbow-text">Rainbow Text</div>
+<!-- HTML -->
+<h1 class="rainbow-text">This text is a rainbow!</h1>
 
