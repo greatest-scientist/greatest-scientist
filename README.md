@@ -51,7 +51,3 @@ ok
 
 
 
-
-<!-- HTML -->
-<h1 class="rainbow-text">This text is a rainbow!</h1>
-
