@@ -45,7 +45,7 @@
 
 [PANCAKE sp](https://pancakegod.straw.page)
 
-COOLER AND MORE SERIOUS SP & RENTRY IS NOT GONNA EXIST.
+𝙲𝙾𝙾𝙻𝙴𝚁 𝙰𝙽𝙳 𝙼𝙾𝚁𝙴 𝚂𝙴𝚁𝙸𝙾𝚄𝚂 𝚂𝙿 & 𝚁𝙴𝙽𝚃𝚁𝚈 𝙸𝚂 𝙽𝙾𝚃 𝙶𝙾𝙽𝙽𝙰 𝙴𝚇𝙸𝚂𝚃.
 <br clear="left" />
 
 
