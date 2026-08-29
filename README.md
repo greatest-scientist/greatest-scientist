@@ -6,7 +6,7 @@
 
 
 <img align="right" width="200" src=https://cdn.phototourl.com/member/2026-08-29-9c2f0a23-5edc-4aa5-8e81-14550cb08477.png />
-```Hi people.... I'm a BUSY student and I use Github for practice coding and for CUTE AND KAWAII PT profiles mainly..```
+```Hi people.... I'm a BUSY student and I use this platform for coding skills B) and for CUTE AND KAWAII PT profiles mainly..```
 
 
 
@@ -23,7 +23,7 @@
 ││
 ││• Has cool interests..
 ││
-││• Minor..
+││• Minor.......
 ││
 ││• CVC'2032..
 ││
