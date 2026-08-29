@@ -48,3 +48,17 @@ ok
 
 | [OH MY GOD LETS EAT PANCAKE S PLSS,,, HOLY SHIT I WANNA GET MARRIED TO A PANCAKE.]((https://rentry.co/pancakegod)) |
 | :---: |
+
+
+
+
+.rainbow-text {
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 48px;
+  font-weight: bold;
+  display: inline-block;
+}
+
