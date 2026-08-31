@@ -1,9 +1,7 @@
 
-
-
 <p align="center">
-![](https://komarev.com/ghpvc/?username=greatest-scientist)
-
+  <img src=https://komarev.com/ghpvc/?username=greatest-scientist alt="Profile Views" />
+</p>
 
 
 <img src=https://cdn.phototourl.com/member/2026-08-29-c4ac3845-a118-4202-9b0c-af37456861e8.png alt="Alt Text" width="700">
