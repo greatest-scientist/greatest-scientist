@@ -5,7 +5,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&redirect=true)
 
 
-<img align="right" width="700" src=https://cdn.phototourl.com/member/2026-08-29-9c2f0a23-5edc-4aa5-8e81-14550cb08477.png />
+<img align="right" width="200" src=https://cdn.phototourl.com/member/2026-08-29-9c2f0a23-5edc-4aa5-8e81-14550cb08477.png />
 
 ```𝙷𝚒 𝚙𝚎𝚘𝚙𝚕𝚎.... 𝙸'𝚖 𝚊 𝙱𝚄𝚂𝚈 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚗𝚍 𝙸 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 for ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 𝚖𝚊𝚒𝚗𝚕𝚢..```
 
