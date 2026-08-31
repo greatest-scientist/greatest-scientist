@@ -18,6 +18,13 @@
 
 
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=false&bar_color=787878&bar_color_cover=false">
+  </a>
+</p>
+
+
 <pre>
  ╭────┈ ↷
 │             ┊ a b o u t  m e. :
@@ -38,11 +45,6 @@
 </pre>
 
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6c7ngttykavrg23htyor6y2fu&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=false&bar_color=787878&bar_color_cover=false">
-  </a>
-</p>
 
 <img src=https://cdn.phototourl.com/member/2026-08-29-d010d70a-f46d-4f7d-a8b7-d51dcb40c939.png alt="Alt Text" width="700">
 
