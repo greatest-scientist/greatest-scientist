@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=greatest-scientist&label=fatalities&style=plastic&color=FFFFFF alt="Profile Views" />
+  <img src=https://komarev.com/ghpvc/?username=greatest-scientist&label=fatalities&style=plastic&color=333333 alt="Profile Views" />
 </p>
 
 
