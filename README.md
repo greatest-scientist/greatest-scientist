@@ -62,7 +62,7 @@
 | [Give me pancakes and I'll buy anything for you..]((https://rentry.co/pancakegod)) |
 | :---: |
 
-
+git commit -m "Fix layout alignment bugs" -m "Co-authored-by: ISA1ONE <github.com/ISA1ONE>"
 
 
 
