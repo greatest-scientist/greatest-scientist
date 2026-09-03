@@ -62,4 +62,16 @@
 | [Give me pancakes and I'll buy anything for you..]((https://rentry.co/pancakegod)) |
 | :---: |
 
+<div class="aero-window">
+  <div class="aero-titlebar">
+    <svg class="aero-titlebar-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><rect x="1" y="1" width="14" height="14" rx="2" fill="#4a90d9"/><rect x="4" y="4" width="8" height="1.5" rx="0.75" fill="#fff"/><rect x="4" y="7" width="8" height="1.5" rx="0.75" fill="#fff"/><rect x="4" y="10" width="5" height="1.5" rx="0.75" fill="#fff"/></svg>
+    <span class="aero-titlebar-text">Untitled - Notepad</span>
+    <div class="aero-caption">
+      <button class="min" type="button" aria-label="Minimize"></button>
+      <button class="max" type="button" aria-label="Maximize"></button>
+      <button class="close" type="button" aria-label="Close"></button>
+    </div>
+  </div>
+  <div class="aero-body">PANCAKEEOANA</div>
+</div>
 
