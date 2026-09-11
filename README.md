@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=FC6487 alt="Profile Views" />
+  <img src=https://komarev.com/ghpvc/?username=greatest-scientist&label=fatalities&style=plastic&color=FC6487 alt="Profile Views" />
 </p>
 
 
