@@ -12,7 +12,10 @@
 <img src=https://cdn.phototourl.com/free/2026-09-11-9de57cc8-ef7e-4231-9568-200e89a505ad.png alt="Alt Text" width="1000">
 
 
-<div align="center">stpr nanamori slander
+<div align="center" 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=FC6487&center=true&lines=stpr+nanamori+slander;%2C+stpr+larp+at+its+finest)](https://git.io/typing-svg)
+
 </div>
 
 
