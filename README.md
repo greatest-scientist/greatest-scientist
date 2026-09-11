@@ -12,7 +12,7 @@
 <img src=https://cdn.phototourl.com/free/2026-09-11-9de57cc8-ef7e-4231-9568-200e89a505ad.png alt="Alt Text" width="1000">
 
 
-<<div align="center">stpr larp at its finest</div>width="100">
+<div align="center">stpr larp at its finest</div><width="100">
 
 
 
