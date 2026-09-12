@@ -14,7 +14,7 @@
 
 <div align="center" 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=005C76&center=true&lines=Nanamori+i+loved+you%2C+but+why...;Satomi+x+Rinu+uwu;Root+x+Colon+rukoro+canon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&pause=1000&color=005C76&center=true&lines=Nanamori+i+loved+you%2C+but+why...;Satomi+x+Rinu+uwu;Root+x+Colon+rukoro+canon)](https://git.io/typing-svg)
 
 </div>
 
